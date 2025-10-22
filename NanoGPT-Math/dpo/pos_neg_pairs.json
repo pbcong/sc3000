@@ -1,0 +1,4 @@
+[{"negative": "79-7=? Sorry, I do not know!",	"positive": "79-7=? The answer is 72 because 79-7 equals 72."},
+{"negative": "x+55=95,x=? Sorry, I do not know!",	"positive": "x+55=95,x=? The answer is 40 because 95-55 equals to 40."},
+{"negative": "74+8=? Sorry, I do not know!",	"positive": "74+8=? The answer is 82 because 74+8 equals 82."},
+{"negative": "1*x=6,x=? Sorry, I do not know!",	"positive": "1*x=6,x=? The answer is 6 because 6/1 equals to 6."}]
